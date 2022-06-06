@@ -1,7 +1,7 @@
 # Red-Black-Tree-Cplusplus
 Red-Black Tree Insertion in C++
 
-# Rules That Every Red-Black Tree Follows: 
+## Rules That Every Red-Black Tree Follows: 
 * Every node has a colour either red or black.
 * The root of the tree is always black.
 * There are no two adjacent red nodes (A red node cannot have a red parent or red child).
