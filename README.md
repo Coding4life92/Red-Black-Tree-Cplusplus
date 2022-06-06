@@ -1,5 +1,5 @@
 # Red-Black-Tree-Cplusplus
-Redd-Black Tree Insertion in C++
+Red-Black Tree Insertion in C++
 
 Rules That Every Red-Black Tree Follows: 
 Every node has a colour either red or black.
